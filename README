@@ -1,0 +1,1 @@
+PHP code for dynamically accessing array elements at arbitrary nesting depth.  This code is not meant for production, it's for illustrative purposes only.  The whole point is that it shouldn't be necessary to create user-defined code to have access to this functionality.  See TODO.  Since this code is for illustration only, the MapPath class relies on array_get_path().    
