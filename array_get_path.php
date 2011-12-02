@@ -10,7 +10,8 @@ All rights reserved.
 
 This code is not meant for production, it's for illustrative purposes
 only.  The whole point is that it shouldn't be necessary to create
-user-defined code to have access to this functionality.  See TODO.
+user-defined code to have access to this functionality.
+See http://thehighcastle.com/blog/38/php-dynamic-access-array-elements-arbitrary-nesting-depth.
 
 */
 
